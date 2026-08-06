@@ -1,0 +1,20 @@
+{
+  "name": "mkdocs-vercel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve-docs": "cd ./documentation && npm run serve",
+    "build-docs": "cd ./documentation && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamikaNimnajith/CyberDump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamikaNimnajith/CyberDump/issues"
+  },
+  "homepage": "https://github.com/chamikaNimnajith/CyberDump#readme"
+}
