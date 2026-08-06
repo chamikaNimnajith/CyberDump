@@ -1,7 +1,17 @@
-site_name: MkDocs Vercel Test
+site_name: CyberDump 
 
 theme:
   name: 'material'
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -25,6 +35,16 @@ theme:
   feature:
     - instant
     - tabs
+
+nav:
+  - Windows: 
+    - Windows Shells: windows/page1.md
+    - Windows Permissions: windows/page2.md
+    - Reverse Shells: windows/page3.md
+    - SeImpersonatePrivilege: windows/page4.md
+  - Network Security:
+    - TSL handshake: network_security/page1.md
+    - SSL handshake: network_security/page2.md
 
 extra_css:
   - stylesheets/extra.css
