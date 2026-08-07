@@ -10,7 +10,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.top
     - navigation.footer
   palette:
     # Palette toggle for automatic mode
@@ -42,9 +41,34 @@ nav:
     - Windows Permissions: windows/page2.md
     - Reverse Shells: windows/page3.md
     - SeImpersonatePrivilege: windows/page4.md
-  - Network Security:
-    - TSL handshake: network_security/page1.md
-    - SSL handshake: network_security/page2.md
+    - On Cross Compilation: windows/page5.md
+    - Windows Services: windows/page6.md
+    - Weak Service Permissions: windows/page7.md
+    - Unquoted Service Path: windows/page8.md
+    - DLL Hijacking: windows/page9.md
+    - UAC Bypass: windows/page10.md
+    - Always Install Elevated: windows/page11.md
+    - Files with Sensitive Data: windows/page12.md
+    - Windows Hashes: windows/page13.md
+    - Windows Vault: windows/page14.md
+    - Scheduled Tasks: windows/page15.md
+    - Critical Registry Paths: windows/page16.md
+    - Useful Tools: windows/page17.md
+    - AMSI Bypass: windows/page18.md
+  - Linux:
+    - Linux Shell: linux/page1.md
+    - File System Permissions: linux/page2.md
+    - PATH Hijacking: linux/page3.md
+    - SUID Exploitation: linux/page4.md
+    - SUDO Exploitation: linux/page5.md
+    - Wildcard Exploitation: linux/page6.md
+    - Unshadow Attack: linux/page7.md
+    - System Enumeration: linux/page8.md
+    - Cronjob Enumeration: linux/page9.md
+    - Capabilities Enumeration: linux/page10.md
+    - Local Service Exploitation: linux/page11.md
+    - Binary Exploitation: linux/page12.md
+    - Kernel Exploitation: linux/page13.md
 
 extra_css:
   - stylesheets/extra.css
