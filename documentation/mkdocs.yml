@@ -70,6 +70,13 @@ nav:
     - Binary Exploitation: linux/page12.md
     - Kernel Exploitation: linux/page13.md
 
+  - Active Directory:
+    - Introduction: active_directory/page1.md
+    - Attack Surface: active_directory/page2.md
+    - Attacks on SMB: active_directory/page3.md
+    - Kerberos: active_directory/page4.md
+    - User Enumeration in Kerberos: active_directory/page5.md
+
 extra_css:
   - stylesheets/extra.css
 
