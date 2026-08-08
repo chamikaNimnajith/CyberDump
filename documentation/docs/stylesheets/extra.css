@@ -1,5 +1,5 @@
-:root > * {
-    --md-primary-fg-color: #4c63c7 !important;
-  };
+/* Hide the right-side table of contents */
+.md-sidebar--secondary {
+  display: none !important;
+}
 
-  

@@ -1,3 +1,4 @@
+
 # Linux Commands, File Permissions, and Privilege Management
 
 ## 1. Navigating Commands and Documentation (Man Pages)

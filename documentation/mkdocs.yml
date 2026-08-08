@@ -72,3 +72,10 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/chamikaNimnajith
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/chamika-nimnajith-2120b529b/
