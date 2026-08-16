@@ -36,6 +36,27 @@ theme:
     - tabs
 
 nav:
+  - Cryptography:
+    - Foundations: cryptography/page1.md 
+    - Symmetric: cryptography/page2.md
+    - DES & AES: cryptography/page3.md
+    - Non-Repudiation: cryptography/page4.md
+    - DES: cryptography/page5.md
+    - Key Exchange: cryptography/page6.md
+    - RSA: cryptography/page7.md
+    - Digital Signatures: cryptography/page8.md
+    - Password Security: cryptography/page9.md
+  - Data & Network Security:
+    - Risk Management: network_security/page6.md
+    - Access Control Models: network_security/page1.md
+    - Data Classification: network_security/page2.md
+    - IPS & IDS: network_security/page3.md
+    - Data Center Security: network_security/page4.md
+    - Firewalls: network_security/page5.md
+    - Multilevel Security: network_security/page7.md
+    - System Hardening: network_security/page8.md
+    - Penetration Testing: network_security/page9.md
+    - TLS and IPsec: network_security/page10.md
   - Windows: 
     - Windows Shells: windows/page1.md
     - Windows Permissions: windows/page2.md

